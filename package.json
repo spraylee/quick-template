@@ -2,9 +2,14 @@
   "name": "quick-template",
   "displayName": "quick-template",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
+  },
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spraylee/quick-template"
   },
   "categories": [
     "Other"
